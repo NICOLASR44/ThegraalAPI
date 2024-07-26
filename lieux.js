@@ -16,7 +16,7 @@ const tabLieux = [
   {
     id: 3,
     nom: "Tentes Burgondes de Tintagel",
-    description: "Ce fameux endroit te permettra d'arroser tranquilement les poissons .",
+    description: "Le meilleur endroit du royaume pour se sustenter et se soulager .",
     image: "http://localhost:4242/static/TentesBurgondes.webp",
   },
   {
