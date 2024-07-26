@@ -5,7 +5,7 @@ const tabLieux = [
     description:
       "La légendaire forteresse du Roi Arthur, centre de la Table Ronde. Tu y trouveras toutes les armes dont tu aura besoin",
     image:
-      "https://static.wikia.nocookie.net/onceuponatime/images/2/26/5x01_ch%C3%A2teau_Camelot.png/revision/latest?cb=20180929143814&path-prefix=fr",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Idylls_of_the_King_3.jpg/800px-Idylls_of_the_King_3.jpg",
   },
   {
     id: 2,
