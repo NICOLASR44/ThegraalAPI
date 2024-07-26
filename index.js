@@ -7,6 +7,7 @@ const app = express();
 const serverPort = 4242;
 
 app.use(cors("*"));
+app.use("/static", express.static(__dirname + "/assets"));
 
 app.get("/lieux", (req, res) => {
   res.json(tabLieux);
